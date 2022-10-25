@@ -1,29 +1,17 @@
-# README #
+# E Source Frontend Workshop #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+If you're reading this, it means you've been invited to participate in the E Source Frontend Workshop. This is a 90 minute workshop where we'll work together through implementing the necessary features for a memory game app.
 
-### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-### How do I get set up? ###
+### Getting Started
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+1. Clone the project.
+2. In the `esource-fe-workshop` folder, run `npm i`
+3. Run `npm run dev`
 
-### Contribution guidelines ###
+### Other Notes
 
-* Writing tests
-* Code review
-* Other guidelines
+The recommended Node version for this is 14. If you don't have node installed, you can use [nvm](https://github.com/nvm-sh/nvm) to quickly switch between node versions.
 
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+### 
