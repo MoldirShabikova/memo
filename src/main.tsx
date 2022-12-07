@@ -17,6 +17,10 @@ function Main() {
     "swamp",
     "space",
   ];
+ 
+
+  
+
 
   const memoryCards: MemoryCard[] = shuffle(
     memoryTypes.flatMap((type) => [
@@ -26,6 +30,9 @@ function Main() {
   );
   return <CardGrid memoryCards={memoryCards} />;
 }
+
+
+
 
 const root = createRoot(document.querySelector<HTMLDivElement>("#app")!);
 root.render(<Main />);
